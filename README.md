@@ -1,2 +1,2 @@
 ### Data Mining with Python
-### Welcome to python data mining
+### Welcome to my python data mining repository 
