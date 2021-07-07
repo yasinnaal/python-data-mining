@@ -9,7 +9,7 @@ Notebooks are avalible on Kaggle platform for best view.
 
 
 
-- [years of experience and salary correlation](https://www.kaggle.com/yasinnaal/years-of-experience-and-salary-correlation) - Predict salary base on years experience
+- [years of experience and salary correlation](https://www.kaggle.com/yasinnaal/years-of-experience-and-salary-correlation) - Predict salary base on years of experience
 
 - [rolling simulation of two 6 sided dice](https://www.kaggle.com/yasinnaal/rolling-simulation-of-two-6-sided-dice) - Practice on Python random library
 
