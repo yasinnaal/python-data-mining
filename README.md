@@ -1,6 +1,5 @@
 #### My Python Data Mining Repository
 
-
 <br>
 some notebooks are avalible on Kaggle platform for best view.
 
@@ -9,6 +8,6 @@ some notebooks are avalible on Kaggle platform for best view.
 
 - [rolling simulation of two 6 sided dice](https://www.kaggle.com/yasinnaal/rolling-simulation-of-two-6-sided-dice)
 
-
+<br>
 
 Thanks
