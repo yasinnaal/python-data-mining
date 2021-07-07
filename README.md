@@ -1,4 +1,4 @@
-#### Welcome to my Python data mining repository
+#### My Python data mining repository
 
 
 some notebooks are avalible on Kaggle platform for best view.
