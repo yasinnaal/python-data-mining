@@ -1,7 +1,7 @@
 #### My Python Data Mining Repository
 
 
-
+<br>
 some notebooks are avalible on Kaggle platform for best view.
 
 - [SAP bikes sales analysis](https://github.com/yasinnaal/Python-Data-Mining/tree/main/sap_bikes_store_sales_analysis)
