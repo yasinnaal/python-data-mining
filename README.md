@@ -7,9 +7,9 @@ Notebooks are avalible on Kaggle platform for best view.
 
 - [COVID-19 World Vaccination Progress](https://www.kaggle.com/yasinnaal/covid-19-world-vaccination-progress) - Which country is using what vaccine? where the vaccination programme is more advanced?
 
-
-
 - [years of experience and salary correlation](https://www.kaggle.com/yasinnaal/years-of-experience-and-salary-correlation) - Predict salary base on years of experience
+
+- [Weather Data History Analysis - Sweden](https://www.kaggle.com/yasinnaal/weather-data-history-analysis-sweden)
 
 - [rolling simulation of two 6 sided dice](https://www.kaggle.com/yasinnaal/rolling-simulation-of-two-6-sided-dice) - Practice on Python random library
 
