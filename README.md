@@ -15,4 +15,6 @@ Notebooks are avalible on Kaggle platform for best view.
 
 <br>
 
+GitHub pages websitet URL: https://yasinnaal.github.io/Python-Data-Mining/
+
 Thanks
