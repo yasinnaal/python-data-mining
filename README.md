@@ -1,4 +1,4 @@
-#### My Python Data Mining Repository
+#### Data Mining with Python Repository
 
 Notebooks are avalible on Kaggle platform for best view.
 
