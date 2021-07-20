@@ -1,7 +1,3 @@
----
-title: Data Mining with Python
---- 
-
 ## Welcome to Data Mining with Python
 
 
