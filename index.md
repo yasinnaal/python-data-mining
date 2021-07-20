@@ -1,6 +1,3 @@
----
-title: SAP ABAP
---- 
 
 ## Welcome to Data Mining with Python
 
