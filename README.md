@@ -1,7 +1,9 @@
 # Data Mining with Python
 
 
-- [SAP bikes store sales analysis](https://github.com/yasinnaal/Python-Data-Mining/blob/main/sap_bikes_store_sales_analysis/sap-bikes-store-sales-analysis.ipynb)
+
+- [SAP bikes store sales analysis](https://github.com/yasinnaal/Python-Data-Mining/blob/main/sap_bikes_store_sales_analysis/sap-bikes-store-sales-analysis.ipynb)<br>SAP bikes store sales analysis with Python
+
 - [Airbnb User Bookings Analysis](https://www.kaggle.com/yasinnaal/airbnb-user-bookings-analysis) <br> Predict user country destination
 
 - [COVID-19 World Vaccination Progress](https://www.kaggle.com/yasinnaal/covid-19-world-vaccination-progress) <br> Which country is using what vaccine? where the vaccination programme is more advanced?
