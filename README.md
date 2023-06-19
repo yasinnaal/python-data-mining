@@ -14,10 +14,10 @@
 
 - [rolling simulation of two 6 sided dice](https://github.com/yasinnaal/Python-Data-Mining/blob/main/rolling-simulation-of-two-6-sided-dice.ipynb) <br> Practice on Python random library
 
-[Creating and Manipulating 1D & 2D Arrays](https://github.com/yasinnaal/Python-Data-Mining/blob/main/matrix-multiplication-numpy.ipynb)
+- [Creating and Manipulating 1D & 2D Arrays](https://github.com/yasinnaal/Python-Data-Mining/blob/main/matrix-multiplication-numpy.ipynb)
 
 <br>
 
-GitHub pages websitet URL: https://yasinnaal.github.io/Python-Data-Mining/
+
 
 Thanks
