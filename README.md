@@ -1,6 +1,5 @@
-#### Data Mining with Python Repository
+# Data Mining with Python
 
-Notebooks are avalible on Kaggle platform for best view.
 
 - [SAP bikes store sales analysis](https://github.com/yasinnaal/Python-Data-Mining/tree/main/sap_bikes_store_sales_analysis)
 - [Airbnb User Bookings Analysis](https://www.kaggle.com/yasinnaal/airbnb-user-bookings-analysis) <br> Predict user country destination
