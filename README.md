@@ -1,6 +1,7 @@
 # Data Mining with Python
 
-
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
 - [SAP bikes store sales analysis](https://github.com/yasinnaal/Python-Data-Mining/blob/main/sap_bikes_store_sales_analysis/sap-bikes-store-sales-analysis.ipynb)<br> SAP bikes store sales analysis with Python
 
