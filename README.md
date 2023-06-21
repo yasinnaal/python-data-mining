@@ -3,6 +3,16 @@
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
+Anaconda: https://www.anaconda.com/products/individual
+
+VS Code: https://code.visualstudio.com
+
+Xcode: https://developer.apple.com/xcode
+
+Jupyter: https://jupyter.org
+
+---
+
 - [SAP bikes store sales analysis](https://github.com/yasinnaal/Python-Data-Mining/blob/main/sap_bikes_store_sales_analysis/sap-bikes-store-sales-analysis.ipynb)<br> SAP bikes store sales analysis with Python
 
 - [Airbnb User Bookings Analysis](https://github.com/yasinnaal/Python-Data-Mining/tree/main/Airbnb-Bookings) <br> Predict user country destination
