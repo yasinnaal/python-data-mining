@@ -99,11 +99,13 @@ MATCH -images are similar <br><br>
 
 
 ---
+
 **You can apply the same for many challanges like detect the change from the images (Pre.jpg and Post.jpg) of the same map location.**
+
+![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___7_1.png)
 ![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___10_1.png)
 ![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___11_1.png)
 ![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___9_1.png)
-![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___7_1.png)
 
 ---
 
