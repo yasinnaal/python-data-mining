@@ -100,6 +100,8 @@ MATCH -images are similar <br><br>
 
 ---
 
+# Compare Images - Map Location
+
 **You can apply the same for many challanges like detect the change from the images (Pre.jpg and Post.jpg) of the same map location.**
 
 ![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___7_1.png)
@@ -126,7 +128,5 @@ MATCH -images are similar <br><br>
 - [Creating and Manipulating 1D & 2D Arrays](https://github.com/yasinnaal/Python-Data-Mining/blob/main/matrix-multiplication-numpy.ipynb)
 
 <br>
-
-
 
 Thanks
