@@ -11,6 +11,8 @@ Xcode: https://developer.apple.com/xcode
 
 Jupyter: https://jupyter.org
 
+any suggestions or feedback write to me [here](https://github.com/yasinnaal/python-data-mining/issues)
+
 ---
 
 ### Check two images similarity
