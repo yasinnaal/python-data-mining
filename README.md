@@ -131,6 +131,8 @@ MATCH -images are similar <br><br>
 
 <br>
 
+---
+
 any suggestions or feedback write to me [here](https://github.com/yasinnaal/python-data-mining/issues)
 
-Thanks
+
