@@ -130,5 +130,6 @@ MATCH -images are similar <br><br>
 - [Creating and Manipulating 1D & 2D Arrays](https://github.com/yasinnaal/Python-Data-Mining/blob/main/matrix-multiplication-numpy.ipynb)
 
 <br>
+any suggestions or feedback write to me [here](https://github.com/yasinnaal/python-data-mining/issues)
 
 Thanks
