@@ -13,6 +13,93 @@ Jupyter: https://jupyter.org
 
 ---
 
+### Check two images similarity
+
+![anytext](https://github.com/yasinnaal/images/blob/main/bb_reuslt.png)
+
+```python
+from PIL import Image
+import imagehash
+
+hash1 = imagehash.average_hash(Image.open('bike.jpg')) 
+hash2 = imagehash.average_hash(Image.open('bike.jpg')) 
+cutoff = 5
+
+if hash1 - hash2 < cutoff:
+  print('image1 average hash value:', hash1)
+  print('image2 average hash value:', hash2)  
+  print('MATCH -images are similar.')
+  
+else:
+  print('image1 average hash value:', hash1)
+  print('image2 average hash value:', hash2)    
+  print('NO MATCH - images are not similar !')
+```  
+<br>
+image1: fffff704808390fe<br>
+
+image2: fffff704808390fe<br>
+
+MATCH -images are similar.<br><br>
+
+
+![anytext](https://github.com/yasinnaal/images/blob/main/bp_reuslt.png)
+
+```python
+from PIL import Image
+import imagehash
+
+hash1 = imagehash.average_hash(Image.open('panda.jpg')) 
+hash2 = imagehash.average_hash(Image.open('bike.jpg')) 
+cutoff = 5
+
+if hash1 - hash2 < cutoff:
+  print(hash1)
+  print(hash2)
+  print('MATCH -images are similar.')
+else:
+  print('image1 average hash value:', hash1)
+  print('image2 average hash value:', hash2)    
+  print('NO MATCH - images are not similar !.')
+```
+<br>
+image1: 00189c1e1fb4e080 <br>
+
+image2: fffff704808390fe <br>
+
+NO MATCH - images are not similar ! <br><br>
+
+
+![anytext](https://github.com/yasinnaal/images/blob/main/pp_reuslt.png)
+
+```python
+from PIL import Image
+import imagehash
+
+hash1 = imagehash.average_hash(Image.open('panda.jpg')) 
+hash2 = imagehash.average_hash(Image.open('panda.jpg')) 
+cutoff = 5
+
+if hash1 - hash2 < cutoff:
+  print(hash1)
+  print(hash2)
+  print('MATCH -images are similar.')
+else:
+  print('image1 average hash value:', hash1)
+  print('image2 average hash value:', hash2)    
+  print('NO MATCH - images are not similar !.')
+  
+```
+<br>
+image1: 00189c1e1fb4e080 <br>
+
+image1: 00189c1e1fb4e080 <br>
+
+MATCH -images are similar <br><br>
+
+---
+
+
 - [SAP bikes store sales analysis](https://github.com/yasinnaal/Python-Data-Mining/blob/main/sap_bikes_store_sales_analysis/sap-bikes-store-sales-analysis.ipynb)<br> SAP bikes store sales analysis with Python
 
 - [Airbnb User Bookings Analysis](https://github.com/yasinnaal/Python-Data-Mining/tree/main/Airbnb-Bookings) <br> Predict user country destination
