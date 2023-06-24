@@ -97,8 +97,17 @@ image1: 00189c1e1fb4e080 <br>
 
 MATCH -images are similar <br><br>
 
+
+---
+**You can apply the same for many challanges like detect the change from the images (Pre.jpg and Post.jpg) of the same map location.**
+![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___10_1.png)
+![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___11_1.png)
+![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___9_1.png)
+![](https://github.com/yasinnaal/python-data-mining/blob/main/images-map-location/__results___7_1.png)
+
 ---
 
+# Python data mining examples 
 
 - [SAP bikes store sales analysis](https://github.com/yasinnaal/Python-Data-Mining/blob/main/sap_bikes_store_sales_analysis/sap-bikes-store-sales-analysis.ipynb)<br> SAP bikes store sales analysis with Python
 
